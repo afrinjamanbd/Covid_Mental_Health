@@ -1,0 +1,2 @@
+# Covid_Mental_Health
+The covid_mental_health_train.csv contains the details of a subset of random participants who have taken in the the survey and more importantly, who were already diagnosed with depression or not! The covid_mental_health_test.csv dataset contains similar information but does not disclose the diagnosis of depression for each participants. These model are for predicting these outcomes.
